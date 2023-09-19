@@ -2,7 +2,7 @@
 
 <h3>Sobre mim</h3>
 
-- Apaixonado por  tecnologia, desenvolvendo e música.
+- Apaixonado por  tecnologia, desenvolvimento e música.
 -  Estudante de  **Análise e Desenvolvimento de Sistemas** na <a href="https://www.uninter.com/">UNINTER</a>.
 -  Aprendendo mais sobre **Back-End**.
 
