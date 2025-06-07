@@ -22,10 +22,6 @@
 
 <br/>
 
-<a href="https://github.com/iuricode">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=filipeassis1&theme=dracula&show_icons=true" />
-</a>
-
 <h3>Onde me encontrar</h3>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-333333?style=flat&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/filipe-assis-2040741a1/)
